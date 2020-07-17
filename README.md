@@ -3,16 +3,6 @@
 <h3 align="center">Design loving Android Developer from IIITDM Jabalpur </h3>
 <p align="center"> <img src=https://komarev.com/ghpvc/?username=LuGO0 alt=saurabh/> </p>
 
-<p align="center">
-  
-  <img src=https://konpa.github.io/devicon/devicon.git/icons/android/android-original-wordmark.svg alt=android width="30" height="30"/> 
-  <img src=https://konpa.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg alt=java width="30" height="30"/>
-  <img src=https://konpa.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg alt=java width="30" height="30"/>
-  <img src=https://konpa.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg alt=javascript width="30" height="30"/> 
-  <img src=https://konpa.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg alt=mysql width="30" height="30"/> 
-  <img src=https://konpa.github.io/devicon/devicon.git/icons/gradle/gradle-plain-wordmark.svg alt=android width="30" height="30"/> 
-  
-</p>
 
 <img align="right" alt="GIF" width="400" height="250" src="https://media.giphy.com/media/VIQ2OBrGPCq0o6QQZY/giphy.gif">
 
@@ -28,7 +18,17 @@
 
 - ⚡ Fun fact: **I Love Mathematics🤪**
 
-
+<br>
+<p align="center">
+  
+  <img src=https://konpa.github.io/devicon/devicon.git/icons/android/android-original-wordmark.svg alt=android width="30" height="30"/> 
+  <img src=https://konpa.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg alt=java width="30" height="30"/>
+  <img src=https://konpa.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg alt=java width="30" height="30"/>
+  <img src=https://konpa.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg alt=javascript width="30" height="30"/> 
+  <img src=https://konpa.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg alt=mysql width="30" height="30"/> 
+  <img src=https://konpa.github.io/devicon/devicon.git/icons/gradle/gradle-plain-wordmark.svg alt=android width="30" height="30"/> 
+  
+</p>
 
 <p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=LuGO0&show_icons=true alt=saurabh /> </p>
 
