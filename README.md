@@ -3,7 +3,7 @@
 <h3 align="center">Design loving Android Developer from IIITDM Jabalpur </h3>
 <p align="center"> <img src=https://komarev.com/ghpvc/?username=LuGO0 alt=saurabh/> </p>
 <br>
-<img align="right" alt="GIF" width="400" height="250" src="https://media.giphy.com/media/VIQ2OBrGPCq0o6QQZY/giphy.gif">
+<img align="right" alt="GIF" width="380" height="240" src="https://media.giphy.com/media/VIQ2OBrGPCq0o6QQZY/giphy.gif">
 
 - 🔭 I’m currently working on [OpenMRS](https://github.com/openmrs)
 
