@@ -22,7 +22,7 @@
 <p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=LuGO0&show_icons=true alt=saurabh /> </p>
 
 <p align="center">
-<a href=https://www.linkedin.com/in/0fficialprofile/ target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg alt="saurabh" height="35" width="35" /></a>
+<a href=https://www.linkedin.com/in/SaurabhKumar91/ target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg alt="saurabh" height="35" width="35" /></a>
 <a href=https://www.instagram.com/discretelugo/ target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg alt="saurabh" height="35" width="35" /></a>
   
 </p>
