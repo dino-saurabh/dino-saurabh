@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 😀, I'm Saurabh</h1>
-<h3 align="center">Design loving Android Developer from IIITDM Jabalpur </h3>
+<h3 align="center">Design loving Software Developer from IIITDM Jabalpur </h3>
 <p align="center"> <img src=https://komarev.com/ghpvc/?username=LuGO0 alt=saurabh/> </p>
 <br>
 <img align="right" alt="GIF" width="380" height="240" src="https://media.giphy.com/media/VIQ2OBrGPCq0o6QQZY/giphy.gif">
