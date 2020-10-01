@@ -15,7 +15,7 @@
 
 - 📫 How to reach me: **2017232@iiitdmj.ac.in**
 
-- ⚡ Fun fact: **I Love Mathematics🤪**
+- ⚡ Fun fact: **Dont come close, I will hide just like sinchan :)**
 
 <br><br>
 
