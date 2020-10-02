@@ -15,7 +15,7 @@
 
 - 📫 How to reach me: **2017232@iiitdmj.ac.in**
 
-- ⚡ Fun fact: **Dont come close, I will hide just like sinchan :)**
+- ⚡ Fun fact: **Dont come close, I will hide just like Sinchan :)**
 
 <br><br>
 
