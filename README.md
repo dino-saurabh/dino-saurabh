@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [OpenMRS](https://github.com/openmrs)
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **Spring**
 
 - 🤔 I’m looking for help with [Deadlines](https://github.com/LuGO0/DeadLines)
 
