@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Android and Software Design** 
 
-- 📫 How to reach me: **2017232@iiitdmj.ac.in**
+- 📫 How to reach me: **saurabhofficial@hotmail.com**
 
 - ⚡ Fun fact: **Shinchan Loves Hashing :)**
 
