@@ -18,6 +18,8 @@
 
 - 📫 How to reach me: **saurabhofficial@hotmail.com**
 
+- 📜 Learning Korean to ditch the subtitles 🤩
+
 - ⚡ Fun fact: **Shinchan Loves Hashing :)**
 
 #
