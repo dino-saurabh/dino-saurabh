@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Android and Software Design** 
 
-- 📫 How to reach me: **saurabhofficial@hotmail.com**
+- 📫 Reachout to me via [LinkedIn](https://www.linkedin.com/in/saurabhkumar91/)
 
 - 📜 Learning Korean to ditch the subtitles 🤩
 
