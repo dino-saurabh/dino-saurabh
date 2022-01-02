@@ -1,5 +1,5 @@
 
-<h1 align="center" >Hi 😀, I'm Saurabh </h1>
+<h1 align="center" >Hi, I'm Saurabh </h1>
 
 <img align="right" alt="GIF" width="380" height="240" src="https://media.giphy.com/media/VIQ2OBrGPCq0o6QQZY/giphy.gif">
 
