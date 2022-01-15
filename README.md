@@ -28,7 +28,7 @@
   &nbsp;
 <a href=https://leetcode.com/luG_0/ target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg alt="saurabh" height="35" width="35" /></a>
   &nbsp;
-<a href=https://www.instagram.com/discretelugo/ target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg alt="saurabh" height="35" width="35" /></a>
+<a href=https://www.instagram.com/saurabh1.7/ target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg alt="saurabh" height="35" width="35" /></a>
 </p>
 
 
