@@ -15,7 +15,7 @@
 
 - 📜 Learning Korean to ditch the subtitles 🤩
 
-- ⚡ Fun fact: **I love writing, it doesnt require an eye contact ;)**
+- ⚡ Fun fact: **I love writing, it doesnt require an eye contact ;-;**
 
 #
 
