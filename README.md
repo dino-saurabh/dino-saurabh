@@ -3,11 +3,9 @@
 
 <img align="right" alt="GIF" width="380" height="240" src="https://media.giphy.com/media/VIQ2OBrGPCq0o6QQZY/giphy.gif">
 
-- 🔭 I’m currently working on [OpenMRS](https://github.com/openmrs)
+- 🔭 I’m currently working with [Disney+ Hotstar](https://careers.hotstar.com/aboutus)
 
 - 🌱 I’m currently learning **Spring**
-
-- 🤔 I’m looking for help with [Deadlines](https://github.com/LuGO0/DeadLines)
 
 - 💬 Ask me about **Android and Software Design** 
 
@@ -15,7 +13,7 @@
 
 - 📜 Learning Korean to ditch the subtitles 🤩
 
-- ⚡ Fun fact: **I love writing, it doesnt require an eye contact ;-;**
+- ⚡ Fun fact: **I love writing, it doesnt require any eye contact ;-;**
 
 #
 
