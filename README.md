@@ -9,9 +9,11 @@
 
 - 📫 Reachout to me via [LinkedIn](https://www.linkedin.com/in/SaurabhOfficial)
 
-- 📜 Learning Korean to ditch the subtitles 🤩
+- 📜 Learning Korean to ditch the subtitles 👀
 
 - ⚡ Fun fact: **I love writing, it doesnt require any eye contact ;-;**
+
+- 😴 <b>...</b>
 
 #
 
