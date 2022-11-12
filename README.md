@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **Spring**
 
-- 💬 Ask me about **Android and Software Design** 
-
 - 📫 Reachout to me via [LinkedIn](https://www.linkedin.com/in/SaurabhOfficial)
 
 - 📜 Learning Korean to ditch the subtitles 🤩
@@ -27,10 +25,6 @@
 <a href=https://www.instagram.com/saurabh1.7/ target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg alt="saurabh" height="45" width="45" /></a>
 </p>
 
-
-
 #
-
 <p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=LuGO0&show_icons=true alt=saurabh /> </p>
-
 #
