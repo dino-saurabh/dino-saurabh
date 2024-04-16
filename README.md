@@ -24,6 +24,8 @@
   &nbsp;
 <a href=https://saurabhofficial.medium.com/ target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg alt="saurabh" height="45" width="45" /></a>
   &nbsp;
+<a href=https://strava.app.link/oVOWgq0yNIb target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/strava.svg alt="saurabh" height="45" width="45" /></a>
+  &nbsp;
 </p>
 
 #
