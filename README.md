@@ -3,9 +3,9 @@
 
 <img align="right" alt="GIF" width="380" height="240" src="https://media.giphy.com/media/VIQ2OBrGPCq0o6QQZY/giphy.gif">
 
-- 🔭 I’m currently working with AWS
+- 🔭 I’m currently working with Amazon Web Services
 
-- 🌱 I’m currently learning **Spring**
+- 🌱 I’m currently learning more about **Databases**
 
 - 📫 Reachout to me via [LinkedIn](https://www.linkedin.com/in/SaurabhOfficial)
 
