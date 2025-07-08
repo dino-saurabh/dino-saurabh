@@ -11,7 +11,7 @@
 
 - 📜 Learning Korean to ditch the subtitles 👀
 
-- ⚡ Fun fact: **I love writing :D**
+- ⚡ Fun fact: **I love cycling 🚴 :D**
 
 - 😴 <b>...</b>
 
