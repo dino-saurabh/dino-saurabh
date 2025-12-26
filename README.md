@@ -29,11 +29,9 @@
   &nbsp;
 <a href=https://www.chess.com/member/1400xo target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@13.1.0/icons/chessdotcom.svg alt="saurabh" height="45" width="45" /></a>
   &nbsp;
-  
+  <a href=https://www.instagram.com/strava.journal/ target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@13.1.0/icons/instagram.svg alt="saurabh" height="45" width="45" /></a>
+  &nbsp;
 </p>
 
 #
 
-<p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=dino-saurabh&show_icons=true alt=saurabh /> </p>
-
-#
