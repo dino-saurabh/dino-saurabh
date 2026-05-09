@@ -17,20 +17,32 @@
 
 #
 
+<br clear="both"/>
 
 <p align="center">
-<a href=https://strava.app.link/oVOWgq0yNIb target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/strava.svg alt="saurabh" height="45" width="45" /></a>
-  &nbsp;  
-<a href=https://www.linkedin.com/in/SaurabhOfficial/ target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg alt="saurabh" height="45" width="45" /></a>
-  &nbsp;
-<a href=https://stackoverflow.com/users/8708368/lug-0/ target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg alt="saurabh" height="45" width="45" /></a>
-  &nbsp;
-<a href=https://saurabhofficial.medium.com/ target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg alt="saurabh" height="45" width="45" /></a>
-  &nbsp;
-<a href=https://www.chess.com/member/1400xo target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@13.1.0/icons/chessdotcom.svg alt="saurabh" height="45" width="45" /></a>
-  &nbsp;
-  <a href=https://www.instagram.com/strava.journal/ target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@13.1.0/icons/instagram.svg alt="saurabh" height="45" width="45" /></a>
-  &nbsp;
+  <a href="https://strava.app.link/oVOWgq0yNIb">
+    <img src="https://img.shields.io/badge/Strava-FC4C02?style=for-the-badge&logo=strava&logoColor=white"/>
+  </a>
+  
+  <a href="https://www.linkedin.com/in/SaurabhOfficial/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  
+  <a href="https://stackoverflow.com/users/8708368/lug-0/">
+    <img src="https://img.shields.io/badge/StackOverflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white"/>
+  </a>
+  
+  <a href="https://saurabhofficial.medium.com/">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
+  </a>
+  
+  <a href="https://www.chess.com/member/1400xo">
+    <img src="https://img.shields.io/badge/Chess.com-81B64C?style=for-the-badge&logo=chessdotcom&logoColor=white"/>
+  </a>
+  
+  <a href="https://www.instagram.com/strava.journal/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
 </p>
 
 #
