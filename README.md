@@ -3,7 +3,7 @@
 
 <img align="right" alt="GIF" width="380" height="240" src="https://media.giphy.com/media/VIQ2OBrGPCq0o6QQZY/giphy.gif">
 
-- 🔭 I’m currently working with Amazon Web Services
+- 🔭 I’m currently working with Bloomberg
 
 - 🌱 I’m currently learning more about **Databases**
 
